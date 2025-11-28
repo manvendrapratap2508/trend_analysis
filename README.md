@@ -10,17 +10,17 @@ The Polymer Market Intelligence Dashboard is a complete analytics solution desig
 
 This dashboard supports real-time price validation, trend analysis, and market sentiment identification, making it ideal for roles in:
 
-Market Intelligence
+✔ Market Intelligence
 
-Procurement
+✔ Procurement
 
-Supply Chain
+✔ Supply Chain
 
-Trading Analytics
+✔ Trading Analytics
 
-Pricing Analysis
+✔ Pricing Analysis
 
-Commodity Research
+✔ Commodity Research
 
 
 🎯**Features**
@@ -30,107 +30,107 @@ Commodity Research
 
 **Latest Price**
 
-Previous Price (auto-calculated by Commodity + Grade + Region)
+✔ Previous Price (auto-calculated by Commodity + Grade + Region)
 
-Deviation (₹)
+✔ Deviation (₹)
 
-Deviation %
+✔ Deviation %
 
-Market Flag (↑ increase, ↓ decrease, → stable)
+✔ Market Flag (↑ increase, ↓ decrease, → stable)
 
 
 **🔹 Smart DAX Logic**
 
-All comparisons respect:
+✔ All comparisons respect:
 
-Commodity
+✔ Commodity
 
-Grade (Film, Injection, Blow Moulding, Bottle, Textile)
+✔ Grade (Film, Injection, Blow Moulding, Bottle, Textile)
 
-Region (North, East, West, South, Central)
+✔ Region (North, East, West, South, Central)
 
-No mix-ups with other dates or markets.
+✔ No mix-ups with other dates or markets.
 
 
 **🔹 Visual Insights**
 
-Daily Price Trend (line chart)
+✔ Daily Price Trend (line chart)
 
-Region-wise comparison (bar chart)
+✔ Region-wise comparison (bar chart)
 
-Detailed price validation table
+✔ Detailed price validation table
 
-Clean KPI card summary
+✔ Clean KPI card summary
 
-Slicers for Commodity, Grade, Region, Type, Source, Trader, Date
+✔ Slicers for Commodity, Grade, Region, Type, Source, Trader, Date
 
 
 **🔹 Data Validation & Reporting**
 
-A dedicated table allows analysts to examine:
+✔ A dedicated table allows analysts to examine:
 
-Latest price vs previous day
+✔ Latest price vs previous day
 
-% deviation
+✔ % deviation
 
-Supplier/trader-level details
+✔ Supplier/trader-level details
 
-Grade-wise segmentation
+✔ Grade-wise segmentation
 
-Notes and source type
+✔ Notes and source type
 
 
 **RawData contains:**
 
-Date
+✔ Date
 
-Commodity
+✔ Commodity
 
-Grade_Canonical
+✔ Grade_Canonical
 
-Region
+✔ Region
 
-Price
+✔ Price
 
-PrevDatePrice
+✔ PrevDatePrice
 
-Type (Domestic/Import)
+✔ Type (Domestic/Import)
 
-Source_Type
+✔ Source_Type
 
-Trader_Name
+✔ Trader_Name
 
 
 
 **🚀 Business Impact**
 
-This dashboard simplifies daily market intelligence tasks such as:
+✔ This dashboard simplifies daily market intelligence tasks such as:
 
-Tracking polymer price changes
+✔ Tracking polymer price changes
 
-Validating trader-submitted market quotes
+✔ Validating trader-submitted market quotes
 
-Preparing daily reports
+✔ Preparing daily reports
 
-Identifying regional price trends
+✔ Identifying regional price trends
 
-Delivering insights to research and procurement teams
+✔ Delivering insights to research and procurement teams
 
-Helps organizations make data-driven buying, selling, and hedging decisions.
+✔ Helps organizations make data-driven buying, selling, and hedging decisions.
 
 
 
 **🔮 Future Enhancements**
 
-Realtime price integration
+✔ Realtime price integration
 
-Alert system for high volatility
+✔ Alert system for high volatility
 
-Expanded commodity coverage
+✔ Expanded commodity coverage
 
-Weekly & monthly trend summaries
+✔ Weekly & monthly trend summaries
 
-Forecasting module
+✔ Forecasting module
 
 
 
